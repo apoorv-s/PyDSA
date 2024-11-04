@@ -1,2 +1,2 @@
-# PyDataStructures
- Python Data Structures
+# PyDSA
+ Python Data Structures and Algorithms
